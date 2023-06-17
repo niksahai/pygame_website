@@ -1,0 +1,26 @@
+#head{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 500px;
+    display: inline-block;
+}
+.lk{
+    color: white;
+}
+#tile{
+    background-color: white;
+    height: 45px;
+    width: 70px;
+    display: inline-block;
+}
+#headtop{
+    display: inline;
+}
+.lst{
+    display: inline;
+    width: 100px;
+}
+/*ul li{
+    display: inline;
+}*/
